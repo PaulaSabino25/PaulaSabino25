@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/PaulaSabino25/PaulaSabino25/blob/main/Banner.jpg" alt="Banner Madame Root" width="100%" />
+  <img src="https://raw.githubusercontent.com/PaulaSabino25/PaulaSabino25/main/Banner.jpeg" alt="Banner Madame Root" width="100%" />
 </p>
+
 
 
 
